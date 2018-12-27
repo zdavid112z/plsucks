@@ -1,4 +1,9 @@
-#include <bits/stdc++.h>
+#include <cstdlib>
+#include <cstdio>
+#include <cstring>
+#include <string>
+#include <unordered_map>
+#include <algorithm>
 #define inf 0x3f3f3f3f
 #define BIT(x) (1<<(x))
 
